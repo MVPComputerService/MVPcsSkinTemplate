@@ -1,0 +1,61 @@
+﻿
+/********************************************************************************************
+*                                                                                           *
+*  Skin by MVP Computer Service, Author: M. Shane Wolff. Creatation Date: 9/18/2013         *
+*  Each page should have its own css file, that way if you need to override the css but     *
+*  only want it to apply to a that page you make that change in that pages css. Page CSS    *
+*  files need to have the same name at the page associates but with it just with .css       *
+*  extention. ie Home.aspx with Home.css                                                    *                                                                                      
+*                                                                                           *
+*********************************************************************************************/
+
+@charset "UTF-8";
+/*body, th, td, table, h1, h2, h3, h4, h5, h6,
+.Head, .SubHead, .SubSubHead,
+.Normal, .NormalBold, .NormalRed, .NormalTextBox, .NormalDisabled,
+a:link, a:visited, a:hover, input, .CommandButton { font-family: Arial, Helvetica, sans-serif;}
+
+body { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000; }
+h1 {font-size: 20px;}
+h2 {font-size: 18px;}
+h3 {font-size: 16px;}
+h4 {font-size: 14px;}
+h5 {font-size: 12px;}
+
+#Body {background: #fafbfc; }
+#DNN7 { position:relative;z-index:1;    }
+.SkinWidth {margin-left: auto;margin-right: auto; width: 980px;height: 100%;display:block; background-color:#efefef; }*/
+
+
+/********************************* Header *******************************************/
+/*#Header                     { min-height: 50px;  background-color:#333;}
+#Header .Logo               { display:inline-block;  position:relative; top:0px; margin:10px 0 10px 8px;  float:left;}
+#Header .SearchBox          { position: relative;float: right; width: 230px;margin: 10px 10px 0 10px;background: #ffffff;}
+#Header .MenuBar            { height:43px; width: 980px; background-color: #666666;bottom: 0px; }*/
+
+/************* DNN Search ****************/
+/*#dnn_dnnSearch_txtSearch	{ width:170px; background:transparent; border:none;border-right: #e0e0e0 1px solid; color:#999; height:20px; outline:none; font-size:13px;  font-style:italic;margin: 0 4px 0 4px;}
+#dnn_dnnSearch_cmdSearch    { width: 20px;padding: 3px 3px 3px 3px;color: #333333;}*/
+
+/******************************** Content ******************************************/
+/*#Content                                  { display:inline-block;position: relative;height: 100%; margin: 0 0 0 0;padding: 0 0 0 0; }
+
+#Content .ContentPane                      { margin: 0 0 0 0;padding: 0 0 0 0; }
+
+#Content .ContentPanes2Column              { display:inline-block; margin: 0 0 0 0; padding: 0 0 0 0;}
+#Content .ContentPanes2Column .leftPane    { Width: 490px;position: relative;float: left; margin: 0 0 0 0;padding: 0 0 0 0; }
+#Content .ContentPanes2Column .rightPane   { Width: 490px;position: relative;float: right ;margin: 0 0 0 0;padding: 0 0 0 0;}
+
+#Content .ContentPanes3Column              { display:inline-block; margin: 0 0 0 0; padding: 0 0 0 0;}
+#Content .ContentPanes3Column .Column1Pane { Width: 326px;position: relative;float: left;}
+#Content .ContentPanes3Column .Column2Pane { Width: 326px;position: relative;float: left;}
+#Content .ContentPanes3Column .Column3Pane { Width: 326px;position: relative;float: left;}*/
+
+/******************************** Footer *******************************************/
+/*#Footer { display:inline-block;  background-color:#e0e0e0;width: 100%; margin: 10px 0 0 0;padding: 0 0 0 0;}
+#Footer .FooterPanes {display:inline-block; margin: 15px 0 0 0;padding: 0 0 0 0;}
+#Footer .FooterPanes .FooterAPane{ Width: 490px;position: relative;float: left; margin: 0 0 0 0;padding: 0 0 0 0;}
+#Footer .FooterPanes .FooterBPane{ Width: 490px;position: relative;float: right; margin: 0 0 0 0;padding: 0 0 0 0;}
+#Footer .FooterCopyright { height: 30px; text-align: center; margin: 15px 0 0 0;padding: 0 0 0 0;}*/
+
+
